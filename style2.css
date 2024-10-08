@@ -1,0 +1,51 @@
+table {
+  margin: 0px;
+  width: 100%;
+  height: 400px;
+}
+
+td,
+th {
+  border: 1px solid black;
+  text-align: center;
+}
+
+th {
+  background-color: rgb(238, 238, 111);
+}
+
+input {
+  float: left;
+  margin-left: 2%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  width: 30%;
+  height: 30px;
+}
+
+#table_one {
+  width: 100%;
+  height: auto;
+  border-collapse: collapse;
+}
+
+#table_two {
+  border-spacing: 20%;
+}
+
+#blue,
+#four {
+  background-color: rgb(96, 96, 235);
+}
+
+#yellow {
+  background-color: rgb(226, 226, 93);
+}
+
+#red {
+  background-color: rgb(233, 91, 91);
+}
+
+#white {
+  background-color: azure;
+}
